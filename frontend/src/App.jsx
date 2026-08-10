@@ -1,6 +1,6 @@
 import { signInWithPopup } from 'firebase/auth'
 import React from 'react'
-import { googleProvider } from '../utlis/firebase'
+import { auth,googleProvider } from '../utlis/firebase'
 
 
 
